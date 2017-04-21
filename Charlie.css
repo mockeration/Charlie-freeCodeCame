@@ -1,0 +1,23 @@
+body{
+  margin: 60px;
+}
+
+.body{
+  margin: 60px;
+  color:black;
+  background-color:  #BFC6BD;
+  padding:  50px;
+}
+
+.fontsize{
+  font-size: 20px;
+}
+
+.figsiz{
+  font-size:10px;
+}
+.outline{
+  background-color: #BFC6BD;
+}
+
+
